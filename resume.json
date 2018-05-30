@@ -1,0 +1,162 @@
+{
+  "basics": {
+      "name": "JIAN RUI CHENG",
+      "label": "PHP Programmer",
+      "picture": "https://i.imgur.com/rHU5Vwp.jpg",
+      "email": "ray247k@gmail.com",
+      "phone": "+886-911-425",
+      "website": "https://ray247k.blogspot.tw",
+      "summary": "I'm a diplomatic/motivated programmer and graduated from National Formosa University(Information Management with B.S degree). In the past few years, I keep concerning about programing skills to improve myself.<br /><br />I also like to discuss web development technology with others so I established \"Front-end study group\".<br /><br />In my job, I maintain existing projects,deal with complaints of customers and revision website in order to improving user experience on mobile devices. <br /><br />Perhaps my experience is not enough but I always try to make the best and keep making progress",
+      "location": {
+          "address": "",
+          "postalCode": "",
+          "city": "",
+          "countryCode": "Taipei",
+          "region": ""
+      },
+      "profiles": [
+          {
+              "network": "Linkedin",
+              "username": "Raymond Cheng",
+              "url": "www.linkedin.com/in/raymond-cheng-7658a5117"
+          },
+          {
+              "network": "Github",
+              "username": "ray247k",
+              "url": "https://github.com/ray247k"
+          },
+          {
+              "network": "slides.com",
+              "username": "ray247k",
+              "url": "https://slides.com/ray247k"
+          }
+      ]
+  },
+  "work": [
+      {
+          "company": "AAMS Co.,Ltd.",
+          "position": "PHP Programmer",
+          "website": "",
+          "startDate": "2017-06-01",
+          "endDate": "2018-12-31",
+          "summary": "",
+          "highlights": [
+              "CMS maintain and new features",
+              "web revision",
+              "dealing with customer complaints",
+              "setting up event website"
+          ]
+      },
+      {
+          "company": "SyS Store Technology Ltd.",
+          "position": " Assistant Engineer",
+          "website": "",
+          "startDate": "2017-12-05",
+          "endDate": "2017-03-05",
+          "summary": "",
+          "highlights": [
+              "POS System Maintenance and testing",
+              "Receiving a Complaint",
+              "POS System's new feature for printing Financial statements"
+          ]
+      }
+  ],
+  "volunteer": [
+      {
+          "organization": "Front-end study group",
+          "position": "Convenor",
+          "website": "",
+          "startDate": "2018-05-20",
+          "endDate": "2018-05-20",
+          "summary": "",
+          "highlights": [
+              "study Front-end with graphic designers"
+          ]
+      }
+  ],
+  "education": [
+      {
+          "institution": "National Formosa University",
+          "area": "Information Management",
+          "studyType": "Bachelor of Business Administration - BBA",
+          "startDate": "2011-09-01",
+          "endDate": "2015-06-30",
+          "gpa": "",
+          "courses": [
+              ""
+          ]
+      },
+      {
+          "institution": "National Taiwan University certificate of course completion",
+          "area": "",
+          "studyType": "PHP & MySQL Active Webpages Programming",
+          "startDate": "2016-10-17",
+          "endDate": "2016-11-25",
+          "gpa": "",
+          "courses": []
+      }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+      {
+          "name": "Web Development",
+          "level": "",
+          "keywords": [
+              "Laravel PHP Framework",
+              "PHP",
+              "HTML",
+              "CSS (Bootstrap)",
+              "JavaScript (jQuery)"
+          ]
+      },
+      {
+          "name": "SQL",
+          "level": "",
+          "keywords": [
+              "MySQL"
+          ]
+      }
+  ],
+  "languages": [
+      {
+          "language": "Mandarin Chinese",
+          "fluency": "Native speaker"
+      },
+      {
+          "language": "English",
+          "fluency": "Good"
+      }
+  ],
+  "interests": [],
+  "references": [
+      {
+          "name": "https://ipetgroup.com",
+          "reference": "就是愛寵物iPetGroup"
+      },
+      {
+          "name": "https://market.healthylives.tw",
+          "reference": "每日健康 - 養生市集"
+      },
+      {
+          "name": "https://share.life.tw",
+          "reference": "Life生活網"
+      },
+      {
+          "name": "https://healthylives.tw",
+          "reference": "每日健康healthylives"
+      },
+      {
+          "name": "https://shareba.com",
+          "reference": "shareBa 分享吧"
+      },
+      {
+          "name": "https://twbanks.good.com.tw",
+          "reference": "台灣Pay行動支付便利快"
+      },
+      {
+          "name": "https://github.com/ray247k/lai_uan-ke",
+          "reference": "lai_uan-ke"
+      }
+  ]
+}
