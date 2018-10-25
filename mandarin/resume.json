@@ -1,0 +1,182 @@
+{
+    "basics": {
+        "name": "程建睿",
+        "label": "PHP 工程師",
+        "picture": "https://i.imgur.com/u7cKCqM.jpg",
+        "email": "ray247k@gmail.com",
+        "phone": "+886-911-220-425",
+        "website": "https://ray247k.blogspot.tw",
+        "summary": "對我來說程式是一種具名的創作，同時也是一個工程師態度的表現。你寫出怎麼樣的程式碼，別人就怎麼評價你。所以要不斷的追求寫出更好的程式碼。<br /><br />喜歡與他人交流技術，所以成立「前端讀書會」。<br /><br />對社群充滿熱情，積極地參與相關聚會吸收他人的經驗，同時也樂於分享自身故事。在這條路上接受過太多幫助，讓他也樂於伸出援手成為別人的英雄。相信透過分享可以讓自己成為更好的人。",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "臺北",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Linkedin",
+                "username": "Raymond Cheng",
+                "url": "www.linkedin.com/in/raymond-cheng-7658a5117"
+            },
+            {
+                "network": "Github",
+                "username": "ray247k",
+                "url": "https://github.com/ray247k"
+            },
+            {
+                "network": "slides.com",
+                "username": "ray247k",
+                "url": "https://slides.com/ray247k"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "轉轉創意",
+            "position": "後端工程師",
+            "website": "",
+            "startDate": "2018-07-12",
+            "endDate": "2018-07-12",
+            "summary": "Introduce Behavior-driven development(BDD)",
+            "highlights": [
+                "Building E-commerce site for Greenvines",
+                "Building E-commerce site for KINJO Jewelry"
+            ]
+        },
+        {
+            "company": "AAMS 全通媒體集團",
+            "position": "PHP 工程師",
+            "website": "",
+            "startDate": "2017-06-01",
+            "endDate": "2018-12-31",
+            "summary": "",
+            "highlights": [
+                "CMS系統維護與新功能開發",
+                "網站改版",
+                "處理問題回報",
+                "建立活動網站",
+                "撰寫背景排程程式"
+            ]
+        },
+        {
+            "company": "喜士多科技股份有限公司",
+            "position": "助理工程師",
+            "website": "",
+            "startDate": "2017-12-05",
+            "endDate": "2017-03-05",
+            "summary": "",
+            "highlights": [
+                "POS 系統維護與測試",
+                "處理客戶問題",
+                "POS 系統報表匯出功能開發"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "前端讀書會",
+            "position": "召集人",
+            "website": "",
+            "startDate": "2018-05-20",
+            "endDate": "2018-05-20",
+            "summary": "",
+            "highlights": [
+                "從基礎開始的前端讀書會，成員多數為平面設計師轉職者"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "國立虎尾科技大學",
+            "area": "資訊管理系",
+            "studyType": "學士",
+            "startDate": "2011-09-01",
+            "endDate": "2015-06-30",
+            "gpa": "",
+            "courses": [
+                ""
+            ]
+        },
+        {
+            "institution": "台灣大學資訊系統訓練班",
+            "area": "",
+            "studyType": "PHP & MySQL 互動式網頁程式設計班",
+            "startDate": "2016-10-17",
+            "endDate": "2016-11-25",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "網頁技術",
+            "level": "",
+            "keywords": [
+                "Laravel PHP Framework",
+                "symfony PHP Framework",
+                "Prestashop PHP E-commerce Framework",
+                "PHP",
+                "HTML",
+                "CSS (Bootstrap)",
+                "JavaScript (jQuery)"
+            ]
+        },
+        {
+            "name": "SQL",
+            "level": "",
+            "keywords": [
+                "MySQL"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "中文",
+            "fluency": "母語"
+        },
+        {
+            "language": "英文",
+            "fluency": "中等"
+        }
+    ],
+    "interests": [],
+    "references": [
+        {
+            "name": "https://github.com/ray247k/lai_uan_ke",
+            "reference": "lai_uan_ke"
+        },
+        {
+            "name": "https://www.kinjo.co/tw",
+            "reference": "草山金工"
+        },
+        {
+            "name": "即將上線",
+            "reference": "綠藤生活"
+        },
+        {
+            "name": "https://shareba.com",
+            "reference": "shareBa 分享吧"
+        },
+        {
+            "name": "https://twbanks.good.com.tw",
+            "reference": "台灣Pay行動支付便利快"
+        },
+        {
+            "name": "https://healthylives.tw",
+            "reference": "每日健康healthylives"
+        },
+        {
+            "name": "https://market.healthylives.tw",
+            "reference": "每日健康 - 養生市集"
+        },
+        {
+            "name": "https://ipetgroup.com",
+            "reference": "就是愛寵物iPetGroup"
+        }
+    ]
+  }
+  
