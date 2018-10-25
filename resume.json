@@ -34,11 +34,23 @@
   },
   "work": [
       {
+          "company": "Tenten Creative Co.",
+          "position": "Back-End Developer",
+          "website": "",
+          "startDate": "2018-07-12",
+          "endDate": "2018-07-12",
+          "summary": "Introduce Behavior-driven development(BDD)",
+          "highlights": [
+              "Building E-commerce site for Greenvines",
+              "Building E-commerce site for KINJO Jewelry"
+          ]
+      },
+      {
           "company": "AAMS Co.,Ltd.",
           "position": "PHP Programmer",
           "website": "",
           "startDate": "2017-06-01",
-          "endDate": "2018-12-31",
+          "endDate": "2018-07-10",
           "summary": "",
           "highlights": [
               "CMS maintain and new features",
@@ -52,7 +64,7 @@
           "company": "SyS Store Technology Ltd.",
           "position": " Assistant Engineer",
           "website": "",
-          "startDate": "2017-12-05",
+          "startDate": "2016-12-05",
           "endDate": "2017-03-05",
           "summary": "",
           "highlights": [
@@ -105,6 +117,8 @@
           "level": "",
           "keywords": [
               "Laravel PHP Framework",
+              "symfony PHP Framework",
+              "Prestashop PHP E-commerce Framework",
               "PHP",
               "HTML",
               "CSS (Bootstrap)",
@@ -131,33 +145,37 @@
   ],
   "interests": [],
   "references": [
-      {
-          "name": "https://ipetgroup.com",
-          "reference": "就是愛寵物iPetGroup"
-      },
-      {
-          "name": "https://market.healthylives.tw",
-          "reference": "每日健康 - 養生市集"
-      },
-      {
-          "name": "https://share.life.tw",
-          "reference": "Life生活網"
-      },
-      {
-          "name": "https://healthylives.tw",
-          "reference": "每日健康healthylives"
-      },
-      {
-          "name": "https://shareba.com",
-          "reference": "shareBa 分享吧"
-      },
-      {
-          "name": "https://twbanks.good.com.tw",
-          "reference": "台灣Pay行動支付便利快"
-      },
-      {
-          "name": "https://github.com/ray247k/lai_uan-ke",
-          "reference": "lai_uan-ke"
-      }
-  ]
+    {
+        "name": "https://github.com/ray247k/lai_uan_ke",
+        "reference": "lai_uan_ke"
+    },
+    {
+        "name": "https://www.kinjo.co/tw",
+        "reference": "KINJO Jewelry"
+    },
+    {
+        "name": "即將上線",
+        "reference": "Greenvines"
+    },
+    {
+        "name": "https://shareba.com",
+        "reference": "shareBa 分享吧"
+    },
+    {
+        "name": "https://twbanks.good.com.tw",
+        "reference": "台灣Pay行動支付便利快"
+    },
+    {
+        "name": "https://healthylives.tw",
+        "reference": "每日健康healthylives"
+    },
+    {
+        "name": "https://market.healthylives.tw",
+        "reference": "每日健康 - 養生市集"
+    },
+    {
+        "name": "https://ipetgroup.com",
+        "reference": "就是愛寵物iPetGroup"
+    }
+]
 }
