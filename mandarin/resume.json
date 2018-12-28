@@ -36,13 +36,16 @@
         {
             "company": "轉轉創意",
             "position": "後端工程師",
-            "website": "",
+            "website": "https://tenten.co/tw/",
             "startDate": "2018-07-12",
             "endDate": "2018-07-12",
-            "summary": "Introduce Behavior-driven development(BDD)",
+            "summary": "使用 PHP prestashop 框架建置電子商務網站，接手建置草山金工、而後獨立負責綠藤生活後端程式撰寫，並從頭參與內部孵化專案「Spark Protein 高蛋白零食」規劃。",
             "highlights": [
-                "Building E-commerce site for Greenvines",
-                "Building E-commerce site for KINJO Jewelry"
+                "推動行為驅動開發(BDD)，減少工程師與 PM 間溝通成本",
+                "導入 Socialite 插件，統整第三方登入功能，減少開發時間並統一開發方式",
+                "制定後端 coding style，遵行 PSR 規定",
+                "引入 reposittory 模式，將常用功能模組化",
+                "推行 HTTP Request 與 Response 規範"
             ]
         },
         {
@@ -51,13 +54,10 @@
             "website": "",
             "startDate": "2017-06-01",
             "endDate": "2018-07-10",
-            "summary": "",
+            "summary": "CMS 系統維護與新功能開發、進行網站改版並處理問題回報；建立活動網站",
             "highlights": [
-                "CMS系統維護與新功能開發",
-                "網站改版",
-                "處理問題回報",
-                "建立活動網站",
-                "撰寫背景排程程式"
+                "獨立建立活動網站（台灣Pay行動支付便利快）",
+                "撰寫背景排程程式（使用者可設定痞客邦文章自動匯入）"
             ]
         },
         {
@@ -66,11 +66,10 @@
             "website": "",
             "startDate": "2016-12-05",
             "endDate": "2017-03-05",
-            "summary": "",
+            "summary": "POS 系統維護與測試、處理客戶問題、POS 系統報表匯出功能開發",
             "highlights": [
-                "POS 系統維護與測試",
-                "處理客戶問題",
-                "POS 系統報表匯出功能開發"
+                "肯夢 AVEDA 公司駐點",
+                "處理發票字號跳號問題"
             ]
         }
     ],
@@ -119,11 +118,10 @@
                 "docker",
                 "Laravel PHP Framework",
                 "PHP",
-                "symfony PHP Framework",
-                "JavaScript (jQuery)",
-                "Prestashop PHP E-commerce Framework",
                 "HTML",
-                "CSS (Bootstrap)"
+                "JavaScript(jQuery)",
+                "Prestashop PHP E-commerce Framework",
+                "CSS(Bootstrap)"
             ]
         },
         {
