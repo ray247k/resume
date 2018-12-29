@@ -42,6 +42,7 @@
             "summary": "使用 PHP prestashop 框架建置電子商務網站，接手建置草山金工、而後獨立負責綠藤生活後端程式撰寫，並從頭參與內部孵化專案「Spark Protein 高蛋白零食」規劃。",
             "highlights": [
                 "推動行為驅動開發(BDD)，減少工程師與 PM 間溝通成本",
+                "使用 GAS(Google Apps Script) 串接 Google 試算表",
                 "導入 Socialite 插件，統整第三方登入功能，減少開發時間並統一開發方式",
                 "制定後端 coding style，遵行 PSR 規定",
                 "引入 reposittory 模式，將常用功能模組化",
