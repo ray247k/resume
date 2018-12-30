@@ -47,7 +47,7 @@
                 "制定後端 coding style，遵行 PSR 規定",
                 "引入 reposittory 模式，將常用功能模組化",
                 "推行 HTTP Request 與 Response 規範",
-                "主導 Git Flow 開發流程"
+                "重新規劃 Git Flow 開發流程"
             ]
         },
         {
