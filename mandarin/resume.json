@@ -47,6 +47,7 @@
                 "制定後端 coding style，遵行 PSR 規定",
                 "引入 reposittory 模式，將常用功能模組化",
                 "推行 HTTP Request 與 Response 規範",
+                "改進原生框架 ajax 回傳內容格式，只傳遞變動資料利於前端串接",
                 "重新規劃 Git Flow 開發流程"
             ]
         },
