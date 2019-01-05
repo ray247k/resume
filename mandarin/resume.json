@@ -39,7 +39,7 @@
             "website": "https://tenten.co/tw/",
             "startDate": "2018-07-12",
             "endDate": "2018-07-12",
-            "summary": "使用 PHP prestashop 框架建置電子商務網站，接手建置草山金工、而後獨立負責綠藤生活後端程式撰寫，並從頭參與內部孵化專案「Spark Protein 高蛋白零食」規劃。",
+            "summary": "使用 PHP prestashop 框架建置電子商務網站，接手建置草山金工，而後獨立負責綠藤生活後端程式撰寫，同時參與內部孵化專案「Spark Protein 高蛋白零食」從頭規劃。",
             "highlights": [
                 "推動行為驅動開發(BDD)，減少工程師與 PM 間溝通成本",
                 "使用 GAS(Google Apps Script) 串接 Google 試算表",
@@ -83,9 +83,11 @@
             "website": "",
             "startDate": "2018-05-20",
             "endDate": "2018-05-20",
-            "summary": "",
+            "summary": "從基礎開始的前端讀書會，成員多數為平面設計師轉職者。給予方向和方法，而非直接填鴨式的教學。同時也釐清自身觀念並且持續接觸前端技術",
             "highlights": [
-                "從基礎開始的前端讀書會，成員多數為平面設計師轉職者"
+                "基本教學內容撰寫，以 slides 分享",
+                "協助成員找尋問題答案",
+                "目前自己正在學習 vue.js"
             ]
         }
     ],
@@ -120,10 +122,10 @@
             "keywords": [
                 "docker",
                 "Laravel PHP Framework",
-                "PHP",
                 "HTML",
                 "JavaScript(jQuery)",
                 "Prestashop PHP E-commerce Framework",
+                "PHP",
                 "CSS(Bootstrap)"
             ]
         },
@@ -147,10 +149,6 @@
     ],
     "interests": [],
     "references": [
-        {
-            "name": "https://github.com/ray247k/lai_uan_ke",
-            "reference": "lai_uan_ke"
-        },
         {
             "name": "https://www.kinjo.co/tw",
             "reference": "草山金工"
