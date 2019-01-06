@@ -39,7 +39,7 @@
             "website": "https://tenten.co/tw/",
             "startDate": "2018-07-12",
             "endDate": "2018-07-12",
-            "summary": "Bulding e-commerce websites for KINJO Jewelry, and Greenvines with PHP prestashop framework, participating \"Spark Protein\" incubation at the same time",
+            "summary": "Bulding e-commerce websites for KINJO Jewelry, and Greenvines with PHP prestashop framework, participating \"Spark Protein\" incubation at the same time.",
             "highlights": [
                 "Promote Behavior-driven development (BDD), decrease communication cost",
                 "Import Socialite plugin, consolidating social login methods also reducing development time",
@@ -59,8 +59,8 @@
             "endDate": "2018-07-10",
             "summary": "CMS maintain and new features, web revision and dealing with customer complaints also setting up event website and creating crontab tasks",
             "highlights": [
-                "setting up twbanks event website",
-                "creating customize pixnet import crontab tasks"
+                "Setting up twbanks event website",
+                "Creating customize pixnet import crontab tasks"
             ]
         },
         {
