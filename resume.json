@@ -87,9 +87,11 @@
             "website": "",
             "startDate": "2018-05-20",
             "endDate": "2018-05-20",
-            "summary": "",
+            "summary": "Study front-end as a beginner, most members were graphic designers. Assist self learning skills to finding answers by themselves instead of spoon-feeding and keep an eye on front-end technologies",
             "highlights": [
-                "study Front-end with graphic designers"
+                "Write basic tutorial documentation, shared by slides",
+                "Assist members in finding answers to questions",
+                "Learning vue.js now by myself"
             ]
         }
     ],
@@ -151,10 +153,6 @@
     ],
     "interests": [],
     "references": [
-        {
-            "name": "https://github.com/ray247k/lai_uan_ke",
-            "reference": "lai_uan_ke"
-        },
         {
             "name": "https://www.kinjo.co/tw",
             "reference": "KINJO Jewelry"
