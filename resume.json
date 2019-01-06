@@ -57,13 +57,10 @@
             "website": "",
             "startDate": "2017-06-01",
             "endDate": "2018-07-10",
-            "summary": "",
+            "summary": "CMS maintain and new features, web revision and dealing with customer complaints also setting up event website and creating crontab tasks",
             "highlights": [
-                "CMS maintain and new features",
-                "web revision",
-                "dealing with customer complaints",
-                "setting up event website",
-                "creating crontab tasks"
+                "setting up twbanks event website",
+                "creating customize pixnet import crontab tasks"
             ]
         },
         {
