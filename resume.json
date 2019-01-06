@@ -39,16 +39,16 @@
             "website": "https://tenten.co/tw/",
             "startDate": "2018-07-12",
             "endDate": "2018-07-12",
-            "summary": "使用 PHP prestashop 框架建置電子商務網站，接手建置草山金工，而後獨立負責綠藤生活後端程式撰寫，同時參與內部孵化專案「Spark Protein 高蛋白零食」從頭規劃。",
+            "summary": "Bulding e-commerce websites for KINJO Jewelry, and Greenvines with PHP prestashop framework, participating \"Spark Protein\" incubation at the same time",
             "highlights": [
-                "推動行為驅動開發(BDD)，減少工程師與 PM 間溝通成本",
-                "使用 GAS(Google Apps Script) 串接 Google 試算表",
-                "導入 Socialite 插件，統整第三方登入功能，減少開發時間並統一開發方式",
-                "制定後端 coding style，遵行 PSR 規定",
-                "引入 reposittory 模式，將常用功能模組化",
-                "推行 HTTP Request 與 Response 規範",
-                "改進原生框架 ajax 回傳內容格式，只傳遞變動資料利於前端串接",
-                "重新規劃 Git Flow 開發流程"
+                "Promote Behavior-driven development (BDD), decrease communication cost",
+                "Import Socialite plugin, consolidating social login methods also reducing development time",
+                "Use GAS(Google Apps Script) connecting Google spreadsheet",
+                "Formulate back-end coding style, follow the PHP Standard Recommendation",
+                "Introduce repository mode, make model for common features",
+                "Adapt ajax return format for data-driven front-end development",
+                "Implement HTTP Request and Response standard",
+                "Redesign Git develop flow"
             ]
         },
         {
