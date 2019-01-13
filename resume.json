@@ -53,7 +53,7 @@
                 "Introduce repository mode, make model for common features",
                 "Adapt ajax return format for data-driven front-end development",
                 "Implement HTTP Request and Response standard",
-                "Redesign Git develop flow"
+                "Redesign Revision control flow, implement Git Flow"
             ]
         },
         {
