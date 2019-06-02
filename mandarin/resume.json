@@ -39,11 +39,23 @@
     },
     "work": [
         {
+            "company": "關鍵評論網",
+            "position": "後端工程師",
+            "website": "https://www.thenewslens.com/",
+            "startDate": "2019-03-19",
+            "endDate": "2019-03-19",
+            "summary": "網站維護與新功能開發",
+            "highlights": [
+                "管理後臺作者管理頁面重構：重構資料查詢方式，提升整體操作流暢度，並減少伺服器資源消耗",
+                "網站前臺作者頁改版：增加作者精選文章、自動統計作者常用標籤排程、作者封面相片"
+            ]
+        },
+        {
             "company": "轉轉創意",
             "position": "後端工程師",
             "website": "https://tenten.co/tw/",
             "startDate": "2018-07-12",
-            "endDate": "2018-07-12",
+            "endDate": "2019-02-28",
             "summary": "使用 PHP prestashop 框架建置電子商務網站，接手建置草山金工，而後獨立負責綠藤生活後端程式撰寫，同時參與內部孵化專案「Spark Protein 高蛋白零食」從頭規劃。",
             "highlights": [
                 "推動行為驅動開發(BDD)，減少工程師與 PM 間溝通成本",
