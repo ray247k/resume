@@ -42,13 +42,16 @@
             "company": "關鍵評論網",
             "position": "後端工程師",
             "website": "https://www.thenewslens.com/",
-            "startDate": "2019-03-19",
+            "startDate": "2019-03-18",
             "endDate": "2019-03-19",
-            "summary": "網站維護與新功能開發",
+            "summary": "網站維護與建置、新功能開發、SEO 優化",
             "highlights": [
                 "管理後臺作者管理頁面重構：重構資料查詢方式，提升整體操作流暢度，並減少伺服器資源消耗",
-                "網站前臺作者頁改版：增加作者精選文章、自動統計作者常用標籤排程、作者封面相片",
-                "INSIDE JOB：與人力銀行 wanted 合作，將針對網站受眾，提供更精準且有效的徵才服務"
+                "網站改版：Inside、EveryLittleD、關鍵評論網",
+                "INSIDE JOB：與人力銀行 wanted 合作，將針對網站受眾，提供更精準且有效的徵才服務",
+                "新功能開發：懶人卡、數位看板",
+                "SEO：建立 AMP、優化 SEO 結果",
+                "未來大人物：網站規劃與建置"
             ]
         },
         {
@@ -169,32 +172,32 @@
     "interests": [],
     "references": [
         {
-            "name": "https://www.kinjo.co/tw",
-            "reference": "草山金工"
+            "name": "關鍵評論網",
+            "reference": "https://www.thenewslens.com/"
         },
         {
-            "name": "即將上線",
-            "reference": "綠藤生活"
+            "name": "INSIDE",
+            "reference": "https://www.inside.com.tw/"
         },
         {
-            "name": "https://shareba.com",
-            "reference": "shareBa 分享吧"
+            "name": "未來大人物",
+            "reference": "https://becomingaces.com/"
         },
         {
-            "name": "https://twbanks.good.com.tw",
-            "reference": "台灣Pay行動支付便利快"
+            "name": "EveryLittleD",
+            "reference": "https://everylittled.com/"
         },
         {
-            "name": "https://healthylives.tw",
-            "reference": "每日健康healthylives"
+            "name": "草山金工",
+            "reference": "https://www.kinjo.co/tw"
         },
         {
-            "name": "https://market.healthylives.tw",
-            "reference": "每日健康 - 養生市集"
+            "name": "每日健康healthylives",
+            "reference": "https://healthylives.tw"
         },
         {
-            "name": "https://ipetgroup.com",
-            "reference": "就是愛寵物iPetGroup"
+            "name": "就是愛寵物iPetGroup",
+            "reference": "https://ipetgroup.com"
         }
     ]
   }
