@@ -39,19 +39,39 @@
     },
     "work": [
         {
+            "company": "Tripresso 旅遊咖",
+            "position": "資深後端工程師",
+            "website": "https://www.tripresso.com/",
+            "startDate": "2020-07-01",
+            "endDate": "2020-07-01",
+            "summary": "容器技術運帷、新功能開發、網站維護與功能修正",
+            "highlights": [
+                "配合第三方機票 API 改版調整",
+                "鼎恒數位科技合作，旅館訂房金流串接",
+                "修復訂單狀態同步排程工作",
+                "ACER 專案，修復旅館搜尋精準度問題",
+                "QNAP 專案，對帳金額錯誤資料修正、需求確認、新版程式開發",
+                "對帳報表製作",
+                "GCP 雲端環境規劃與建置：使用 Docker 容器化技術",
+                "Nginx 反向代理設定：只開放指定連接埠對外",
+                "CI/CD 設定：使用 Drone 依照不同條件自動部屬新版本"
+            ]
+        },
+        {
             "company": "關鍵評論網",
             "position": "後端工程師",
             "website": "https://www.thenewslens.com/",
             "startDate": "2019-03-18",
-            "endDate": "2019-03-19",
-            "summary": "網站維護與建置、新功能開發、SEO 優化",
+            "endDate": "2020-06-19",
+            "summary": "網站維護與建置、新功能開發、SEO 優化、Google Ad Manager 廣告埋設",
             "highlights": [
-                "管理後臺作者管理頁面重構：重構資料查詢方式，提升整體操作流暢度，並減少伺服器資源消耗",
+                "管理後臺作者管理頁面重構：重構資料查詢方式提升整體操作流暢度、減少伺服器資源消耗",
                 "網站改版：Inside、EveryLittleD、關鍵評論網",
                 "INSIDE JOB：與人力銀行 wanted 合作，將針對網站受眾，提供更精準且有效的徵才服務",
                 "新功能開發：懶人卡、數位看板",
                 "SEO：建立 AMP、優化 SEO 結果",
-                "未來大人物：網站規劃與建置"
+                "未來大人物：網站規劃與建置",
+                "協助廣告業務埋設頁面 Google Ad Manager 程式碼"
             ]
         },
         {
@@ -98,21 +118,6 @@
             ]
         }
     ],
-    "volunteer": [
-        {
-            "organization": "前端讀書會",
-            "position": "召集人",
-            "website": "",
-            "startDate": "2018-05-20",
-            "endDate": "2018-05-20",
-            "summary": "從基礎開始的前端讀書會，成員多數為平面設計師轉職者。給予方向和方法，而非直接填鴨式的教學。同時也釐清自身觀念並且持續接觸前端技術",
-            "highlights": [
-                "基本教學內容撰寫，以 slides 分享",
-                "協助成員找尋問題答案",
-                "目前自己正在學習 vue.js"
-            ]
-        }
-    ],
     "education": [
         {
             "institution": "國立虎尾科技大學",
@@ -139,23 +144,48 @@
     "publications": [],
     "skills": [
         {
-            "name": "網頁技術",
+            "name": "後端開發",
             "level": "",
             "keywords": [
-                "docker",
-                "Laravel PHP Framework",
-                "HTML",
-                "JavaScript(jQuery)",
-                "Prestashop PHP E-commerce Framework",
-                "PHP",
-                "CSS(Bootstrap)"
+                "Laravel Framework",
+                "CodeIgniter Framework",
+                "MySQL",
+                "Express Framework",
+                "MongoDB",
+                "PostgreSQL"
             ]
         },
         {
-            "name": "SQL",
+            "name": "伺服器運維",
             "level": "",
             "keywords": [
-                "MySQL"
+                "Docker",
+                "Git flow",
+                "CI/CD (Drone)",
+                "Nginx proxy",
+                "Test-Driven Development"  
+            ]
+        },
+        {
+            "name": "網頁前端",
+            "level": "",
+            "keywords": [
+                "JavaScript",
+                "JQuery",
+                "Vue 2",
+                "Vue CLI",
+                "Vue Router",
+                "Vuex",
+                "Bootstrap"
+            ]
+        },
+        {
+            "name": "其他",
+            "level": "",
+            "keywords": [
+                "網站 SEO 優化",
+                "Google Analytics", 
+                "Google Ad Manager"
             ]
         }
     ],
@@ -171,6 +201,10 @@
     ],
     "interests": [],
     "references": [
+        {
+            "name": "Tripresso 旅遊咖",
+            "reference": "https://www.tripresso.com/"
+        },
         {
             "name": "關鍵評論網",
             "reference": "https://www.thenewslens.com/"
